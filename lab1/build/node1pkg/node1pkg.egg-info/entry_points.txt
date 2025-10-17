@@ -1,0 +1,5 @@
+[console_scripts]
+node1 = node1pkg.node1:main
+node2 = node1pkg.node2:main
+node3 = node1pkg.node3:main
+node4 = node1pkg.node4:main

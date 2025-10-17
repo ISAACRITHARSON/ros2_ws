@@ -1,0 +1,20 @@
+[0.303s] Invoking command in '/home/isaac/ros2_ws/lab1/build/node1pkg': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/isaac/ros2_ws/lab1/build/node1pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/isaac/ros2_ws/lab1/install/node1pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/isaac/ros2_ws/lab1/build/node1pkg/build --no-deps symlink_data
+[0.420s] running develop
+[0.484s] running egg_info
+[0.490s] writing node1pkg.egg-info/PKG-INFO
+[0.490s] writing dependency_links to node1pkg.egg-info/dependency_links.txt
+[0.490s] writing entry points to node1pkg.egg-info/entry_points.txt
+[0.490s] writing requirements to node1pkg.egg-info/requires.txt
+[0.490s] writing top-level names to node1pkg.egg-info/top_level.txt
+[0.502s] reading manifest file 'node1pkg.egg-info/SOURCES.txt'
+[0.503s] writing manifest file 'node1pkg.egg-info/SOURCES.txt'
+[0.510s] running build_ext
+[0.510s] Creating /home/isaac/ros2_ws/lab1/install/node1pkg/lib/python3.12/site-packages/node1pkg.egg-link (link to .)
+[0.510s] Installing node1 script to /home/isaac/ros2_ws/lab1/install/node1pkg/lib/node1pkg
+[0.510s] Installing node2 script to /home/isaac/ros2_ws/lab1/install/node1pkg/lib/node1pkg
+[0.510s] Installing node3 script to /home/isaac/ros2_ws/lab1/install/node1pkg/lib/node1pkg
+[0.511s] Installing node4 script to /home/isaac/ros2_ws/lab1/install/node1pkg/lib/node1pkg
+[0.511s] 
+[0.511s] Installed /home/isaac/ros2_ws/lab1/build/node1pkg
+[0.511s] running symlink_data
+[0.525s] Invoked command in '/home/isaac/ros2_ws/lab1/build/node1pkg' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/isaac/ros2_ws/lab1/build/node1pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/isaac/ros2_ws/lab1/install/node1pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/isaac/ros2_ws/lab1/build/node1pkg/build --no-deps symlink_data
