@@ -1,0 +1,13 @@
+package.xml
+setup.cfg
+setup.py
+node1pkg/__init__.py
+node1pkg/node1.py
+node1pkg.egg-info/PKG-INFO
+node1pkg.egg-info/SOURCES.txt
+node1pkg.egg-info/dependency_links.txt
+node1pkg.egg-info/entry_points.txt
+node1pkg.egg-info/requires.txt
+node1pkg.egg-info/top_level.txt
+node1pkg.egg-info/zip-safe
+resource/node1pkg

@@ -1,0 +1,18 @@
+running develop
+running egg_info
+writing node1pkg.egg-info/PKG-INFO
+writing dependency_links to node1pkg.egg-info/dependency_links.txt
+writing entry points to node1pkg.egg-info/entry_points.txt
+writing requirements to node1pkg.egg-info/requires.txt
+writing top-level names to node1pkg.egg-info/top_level.txt
+reading manifest file 'node1pkg.egg-info/SOURCES.txt'
+writing manifest file 'node1pkg.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/isaac/ros2_ws/lab1/install/node1pkg/lib/python3.12/site-packages/node1pkg.egg-link (link to .)
+Installing node1 script to /home/isaac/ros2_ws/lab1/install/node1pkg/lib/node1pkg
+Installing node2 script to /home/isaac/ros2_ws/lab1/install/node1pkg/lib/node1pkg
+Installing node3 script to /home/isaac/ros2_ws/lab1/install/node1pkg/lib/node1pkg
+Installing node4 script to /home/isaac/ros2_ws/lab1/install/node1pkg/lib/node1pkg
+
+Installed /home/isaac/ros2_ws/lab1/build/node1pkg
+running symlink_data
