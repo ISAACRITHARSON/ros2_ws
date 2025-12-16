@@ -333,7 +333,7 @@ MIT License - See course policies for academic integrity requirements
 
 **Isaac Premkumar**  
 Email: premkumar.i@northeastern.edu  
-GitHub: [Your GitHub Profile]
+GitHub: ISAACRITHARSON P
 
 ---
 
